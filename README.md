@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimasariyantopr
 - 👀 I’m interested in science and technology
-- 🌱 I’m currently learning programming language id est Python, Java, and C++
+- 🌱 I’m currently learning programming language id est Python, Java, PHP, C++, and others
 - 📫 How to reach me by email to dimasariyantoprasetyo@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like to play games, football, and learning something new
