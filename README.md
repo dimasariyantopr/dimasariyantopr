@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dimasariyantopr
 - 👀 I’m interested in science and technology
 - 🌱 I’m currently learning programming language id est Python, Java, PHP, C++, and others
-- 📫 How to reach me by email to dimasariyantoprasetyo@gmail.com
+- 📫 Reach me out by email to dimasariyantoprasetyo@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I like to play games, football, and learning something new
+- ⚡ Fun fact: I like to talk about astronomy things
 
 <!---
 dimasariyantopr/dimasariyantopr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
