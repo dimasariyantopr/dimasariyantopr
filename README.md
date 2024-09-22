@@ -2,12 +2,7 @@
   
 - 👀 I’m interested in science and technology due to my education background in Software Engineering at Vocational High School 5 Surakarta and Animal Science at Universitas Sebelas Maret. I'am experienced as student Intern at Phicos IT Consultant Surakarta, Animal Embrio Center Bogor, and student reasearch at Parasitology Group Research. That experiences leading me to able do some data analysis.
 
-- 📫 You can reach me out by:
-- Email: dimasariyantoprasetyo@gmail.com
-- Linkedin: @dimasariyantopr
-- Instagram: @dimasariyantopr
-- Twitter: @dimasariyantopr
-- Facebook: @dimasariyantopr
+- 📫 You can reach me out by: Email: dimasariyantoprasetyo@gmail.com, Linkedin: @dimasariyantopr, Instagram: @dimasariyantopr, Twitter: @dimasariyantopr, Facebook: @dimasariyantopr
 
 - ⚡ Fun fact: I'm astrophile, So I like to talk about astronomy things.
 
