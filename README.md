@@ -4,7 +4,7 @@
 
 - 📫 You can reach me out by: Email: dimasariyantoprasetyo@gmail.com, Linkedin: @dimasariyantopr, Instagram: @dimasariyantopr, Twitter: @dimasariyantopr, Facebook: @dimasariyantopr
 
-- ⚡ Fun fact: I'm astrophile, So I like to talk about astronomy things.
+- ⚡ Fun fact: I'm astrophile. So, I like to talk about astronomy things.
 
 <!---
 dimasariyantopr/dimasariyantopr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
