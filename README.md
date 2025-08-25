@@ -31,4 +31,4 @@
 
 ## 🤝 Connect With Me
 - ✉️ Email: [dimasariyantopr@gmail.com](mailto:dimasariyantopr@gmail.com)  
-- 💼 LinkedIn: *coming soon* 😉
+- 💼 LinkedIn: (http://linkedin.com/in/dimasariyantopr/)
